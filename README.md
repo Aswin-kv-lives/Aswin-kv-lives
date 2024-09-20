@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning java , c++
 - 💞️ I’m looking to collaborate on anything useful
 - 📫 How to reach me idk
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i dont know to use github
 
 <!---
