@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aswin k v
 - 👀 I’m interested in learn, i think so..
-- 🌱 I’m currently learning java , c++
+- 🌱 I’m currently learning python , c++
 - 💞️ I’m looking to collaborate on anything useful
 - 📫 How to reach me idk
 - ⚡ Fun fact: i dont know to use github
